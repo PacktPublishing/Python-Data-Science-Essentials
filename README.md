@@ -21,7 +21,7 @@ Working knowledge of data analysis and Python<br>
 ### Technical Requirements
 This course has the following software requirements:<br/>
 Python 3.6 <br>
-JupyterLab latest version
+JupyterLab latest version  <br>
 Anaconda 4.x
 
 
